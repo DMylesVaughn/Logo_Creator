@@ -1,5 +1,5 @@
-# Quiz
-A timed quiz on Javascript fundamentals that tracks high scores.
+# SVG LOGO GENERATOR
+Module 10 Assignment for the Bootcamp is to use javascript to create an SVG Logo Generator. 
 
 # Table of Contents 
 * [User Story](#User-Story)
@@ -7,46 +7,42 @@ A timed quiz on Javascript fundamentals that tracks high scores.
 * [Usage](#Usage)
 * [Contributing](#Contributing)
 * [Tests](#Tests)
-* [Screen Shots](#ScreenShots)
 * [Code Location](#Code)
 * [Questions](#Contact-Information)
 # User Story
-AS A coding boot camp student
-I WANT to take a timed quiz on JavaScript fundamentals that stores high scores
-SO THAT I can gauge my progress compared to my peers
+AS a freelance web developer
+I WANT to generate a simple logo for my projects
+SO THAT I don't have to pay a graphic designer
 
 # Acceptance Criteria
-GIVEN I am taking a code quiz
-WHEN I click the start button
-THEN a timer starts and I am presented with a question
-WHEN I answer a question
-THEN I am presented with another question
-WHEN I answer a question incorrectly
-THEN time is subtracted from the clock
-WHEN all questions are answered or the timer reaches 0
-THEN the game is over
-WHEN the game is over
-THEN I can save my initials and score
+GIVEN a command-line application that accepts user input
+WHEN I am prompted for text
+THEN I can enter up to three characters
+WHEN I am prompted for the text color
+THEN I can enter a color keyword (OR a hexadecimal number)
+WHEN I am prompted for a shape
+THEN I am presented with a list of shapes to choose from: circle, triangle, and square
+WHEN I am prompted for the shape's color
+THEN I can enter a color keyword (OR a hexadecimal number)
+WHEN I have entered input for all the prompts
+THEN an SVG file is created named `logo.svg`
+AND the output text "Generated logo.svg" is printed in the command line
+WHEN I open the `logo.svg` file in a browser
+THEN I am shown a 300x200 pixel image that matches the criteria I entered
 
 # Usage
- You can use this site to test your knowledge of Javascript.
+ You can use this CLI to build simple svg logos.
 
 # Contributing 
-Download the source code and add questions, change appearance, or add/remove functionality.
+Download the source code and add additional styling options as needed.
 
 # Tests
 This was tested using Live Terminal in VSCode.
 
-# ScreenShots
-* ![LaunchPage](https://github.com/DMylesVaughn/Quiz/blob/main/assets/images/LaunchPage.png)
-* ![Correct Question](https://github.com/DMylesVaughn/Quiz/blob/main/assets/images/QuestionCorrect.png)
-* ![WrongQuestion](https://github.com/DMylesVaughn/Quiz/blob/main/assets/images/QuestionWrong.png)
-* ![TimeOut](https://github.com/DMylesVaughn/Quiz/blob/main/assets/images/TimeOut.png)
-* ![HighScores](https://github.com/DMylesVaughn/Quiz/blob/main/assets/images/HighScores.png)
-
 # Code
-* https://github.com/DMylesVaughn/Quiz
-* https://dmylesvaughn.github.io/Quiz/
+Google Drive: https://drive.google.com/file/d/1vWs_FA-M03BP7tqYD7U4WmvoNHIgzJuD/view
+Github: https://github.com/DMylesVaughn/Logo_Creator
+
 
 # Contact Information 
 * GitHub Username: DMylesVaughn
