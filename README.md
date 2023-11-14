@@ -40,8 +40,8 @@ Download the source code and add additional styling options as needed.
 This was tested using Live Terminal in VSCode.
 
 # Code
-Google Drive: https://drive.google.com/file/d/1vWs_FA-M03BP7tqYD7U4WmvoNHIgzJuD/view
-Github: https://github.com/DMylesVaughn/Logo_Creator
+* Google Drive: https://drive.google.com/file/d/1vWs_FA-M03BP7tqYD7U4WmvoNHIgzJuD/view
+* Github: https://github.com/DMylesVaughn/Logo_Creator
 
 
 # Contact Information 
