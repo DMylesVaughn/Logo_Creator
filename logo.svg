@@ -1,0 +1,6 @@
+
+      <svg width="300" height="200" xmlns="http://www.w3.org/2000/svg">
+        <rect width="100%" height="100%" fill="Red" />
+        <text x="50%" y="30%" dy="1em" text-anchor="middle" fill="White" font-size="40" font-weight="bold">FRD</text>
+      </svg>
+    
